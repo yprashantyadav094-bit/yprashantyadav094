@@ -4,19 +4,81 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yprashantyadav094" alt="yprashantyadav094" /></a> </p>
 
-- 💬 Ask me about **Full Stack Developer**
+- 💬 Ask me about **Full Stack Developer**👋 Hi, I'm Prashant Kumar Yadav
 
-- 📫 How to reach me **yprashantyadav094@gmail.com**
+💻 Software Developer | B.Tech CSE Student | Python Developer
 
-<h3 align="left">Connect with me:</h3>
+Welcome to my GitHub profile! I'm passionate about software development, programming, and exploring new technologies. I enjoy building projects, solving problems, and continuously learning new skills.
+
+---
+
+🚀 About Me
+
+- 🎓 B.Tech Computer Science and Engineering Student
+- 💻 Interested in Software Development
+- 🐍 Learning and working with Python
+- 🌱 Exploring Artificial Intelligence and Machine Learning
+- 🚀 Building real-world projects
+- 🎯 Goal: Become a skilled Software Developer
+
+---
+
+🛠️ Skills & Technologies
+
 <p align="left">
-</p>
+<img src="https://skillicons.dev/icons?i=python,flutter,dart,nodejs,androidstudio,git,github,vscode" />
+</p>---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> </p>
+📊 GitHub Statistics
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yprashantyadav094&show_icons=true&locale=en&layout=compact" alt="yprashantyadav094" /></p>
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=yprashantyadav094&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yprashantyadav094&layout=compact&theme=tokyonight&hide_border=true" width="40%" />
+</p>---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yprashantyadav094&show_icons=true&locale=en" alt="yprashantyadav094" /></p>
+🔥 GitHub Streak
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yprashantyadav094&" alt="yprashantyadav094" /></p>**
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=yprashantyadav094&theme=tokyonight&hide_border=true" width="75%" />
+</p>---
+
+📈 Contribution Activity Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=yprashantyadav094&theme=tokyo-night&hide_border=true" width="100%" />
+</p>---
+
+🚀 Featured Projects
+
+🌿 Plant Disease Detection and Classification
+
+- Deep Learning based plant disease detection.
+- Image classification using Python.
+- Exploring AI and Machine Learning.
+
+🛒 Buynow – Android Shopping Application
+
+- Android-based online shopping application.
+- Developed using Flutter.
+- Backend integration using Node.js.
+- Features include product ordering, QR payments and notifications.
+
+---
+
+🌐 Connect With Me
+
+<p align="left">
+<a href="https://github.com/yprashantyadav094">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+</p>---
+
+👀 Profile Visitors
+
+<p align="left">
+<img src="https://komarev.com/ghpvc/?username=yprashantyadav094&label=Profile%20Views&color=blue&style=flat" />
+</p>---
+
+⭐ Thanks for visiting my profile!
+
+Keep Learning | Keep Building | Keep Growing 🚀
