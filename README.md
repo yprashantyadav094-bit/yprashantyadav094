@@ -1,4 +1,4 @@
-# yprashantyadav094
+****# yprashantyadav094
 <h1 align="center">Hi 👋, I'm Prashant Yadav</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
@@ -19,4 +19,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yprashantyadav094&show_icons=true&locale=en" alt="yprashantyadav094" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yprashantyadav094&" alt="yprashantyadav094" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yprashantyadav094&" alt="yprashantyadav094" /></p>**
